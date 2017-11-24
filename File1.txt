@@ -1,2 +1,3 @@
 Editing File1.txt here
 edited line
+editing file to stash changes
