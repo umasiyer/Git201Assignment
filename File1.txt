@@ -2,3 +2,5 @@ Editing File1.txt here
 edited line
 editing file to stash changes
 editing file in master branch
+eDITING FILE IN BRANCH
+edited the file a second time in branch
