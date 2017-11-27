@@ -1,0 +1,19 @@
+ Volume in drive D is DATA
+ Volume Serial Number is 5CAC-DDE4
+
+ Directory of D:\Learning\GIT-201\Assignment4
+
+11/27/2017  11:31 AM    <DIR>          .
+11/27/2017  11:31 AM    <DIR>          ..
+11/27/2017  11:21 AM               782 branch1file.txt
+11/25/2017  07:40 AM                 0 branch2file.txt
+11/25/2017  07:40 AM                66 File1.txt
+11/25/2017  07:40 AM                 0 File2.txt
+11/25/2017  07:37 AM    <DIR>          Git201Assignment
+11/25/2017  07:40 AM                 0 newbranchfile.txt
+11/25/2017  07:40 AM                18 NewFileTestStash
+11/25/2017  07:40 AM                68 README.md
+11/27/2017  11:31 AM                 0 rebaseBranchFile.txt
+11/25/2017  07:40 AM               118 RepoFile
+               9 File(s)          1,052 bytes
+               3 Dir(s)  87,132,598,272 bytes free
